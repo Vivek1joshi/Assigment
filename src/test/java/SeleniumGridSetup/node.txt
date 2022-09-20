@@ -1,0 +1,2 @@
+java -Dwebdriver.chrome.driver="C:\Users\VivekJoshi\IdeaProjects\Dandy\Assingment\chromedriver3.exe" -jar  C:\Users\VivekJoshi\IdeaProjects\Dandy\Assingment\src\test\java\SeleniumGridSetup\selenium-server-standalone-3.141.59.jar -role node -hub http://10.10.30.53:4444/grid/register/
+ command we use in browser = http://localhost:4444/grid/console
